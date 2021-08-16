@@ -40,6 +40,7 @@ class Config(object):
     
   
    
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:root123@127.0.0.1:3306/idesignbeds'  
+    SQLALCHEMY_DATABASE_URI = 'mysql://b57c0919726415:6f64ab19@us-cdbr-east-04.cleardb.com/heroku_d571709bdd12a6c' 
+    # 'mysql+pymysql://root:root123@127.0.0.1:3306/idesignbeds' 
     
    
